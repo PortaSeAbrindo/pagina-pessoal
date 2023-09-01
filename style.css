@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header div{
+    height: 70px;
+}
+
+header div h1{
+    color: black;
+    font-size: 50px;
+}
+
+header div h1:hover{
+    color: white;
+}
+
+main{
+    height: 581px;
+}
+
+main aside img{
+    height: 345px;
+    
+}
